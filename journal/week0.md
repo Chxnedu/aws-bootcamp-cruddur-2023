@@ -14,4 +14,3 @@ I created a budget of $3 as that's the amount I'm willing to get to before getti
 I created a billing alarm with a threshold of $3.
 
 ![Image](images/billingalarm.jpg)
-
