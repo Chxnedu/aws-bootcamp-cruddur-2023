@@ -17,5 +17,5 @@ I created a billing alarm with a threshold of $3 using the AWS Console.
 ![Image](images/billingalarm.jpg)
 
 - ### Install AWS CLI
-I installed the AWS CLI on my Gitpod environment manually, and updated the gitpod config file to do it automatically each time I launch a new environment
+I installed the AWS CLI on my Gitpod environment manually, and updated the gitpod config file to install it automatically each time I launch a new environment
 
