@@ -21,6 +21,6 @@ I installed the AWS CLI on my Gitpod environment manually, and updated the gitpo
 
 - ### Logical Diagram
 
-![Image]()
+![Image](images/LogicalDiagram.jpg)
 [Link to view](https://lucid.app/lucidchart/8f290f23-099f-4c6d-8a82-d44e0b928ad0/edit?viewport_loc=-128%2C108%2C2220%2C1114%2C0_0&invitationId=inv_1505932e-e749-471c-98a1-51785e646532)
 
