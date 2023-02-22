@@ -42,5 +42,9 @@ I was able to implement a healthcheck for my frontend and backend conatainer in 
 
 ![Image](images/healthcheck.jpg)
 
+- ### Running Docker on EC2
+I launched an EC2 Instance, installed Docker on it, and was able to pull the frontend image I committed to Docker Hub earlier
+
+![Image](images/dockerPull.jpg)
 
 
