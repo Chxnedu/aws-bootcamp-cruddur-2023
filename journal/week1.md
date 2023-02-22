@@ -31,7 +31,7 @@ I successfully ran a dynamodb local container
 - ### Postgres Container
 I successfully ran a postgres container
 
-![Image](imges/postgresContainer.jpg)
+![Image](images/postgresContainer.jpg)
 
 ## Homework Challenges
 - ### Pushing a tagged Image to Dockerhub
