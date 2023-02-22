@@ -53,4 +53,4 @@ networks:
 
 volumes:
   db:
-    driver: localj
+    driver: local
