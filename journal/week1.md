@@ -47,4 +47,9 @@ I launched an EC2 Instance, installed Docker on it, and was able to pull the fro
 
 ![Image](images/dockerPull.jpg)
 
+- ### Using Multistage build for Dockerfile
+I used a multistage build for my frontend Dockerfile build and was able to reduce the file from 1.24gb to 500mb. I know it should be possible to reduce the file size more than that, but I don't really know how react works and what files are important to the application
+
+![Image](images/multistage.jpg)
+From the picture above, the first image is the new image after the multistage build, and the second image is the original image that I pushed to Docker Hub.
 
